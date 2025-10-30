@@ -1,5 +1,5 @@
 {
-	"name": "mcp-sequentialthinking-tools",
+	"name": "@iflow-mcp/mcp-sequentialthinking-tools",
 	"version": "0.0.2",
 	"description": "MCP server for Sequential Thinking Tools",
 	"type": "module",
